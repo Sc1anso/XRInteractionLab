@@ -79,7 +79,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e314dfef9af0904e80129bcc0a79361, type: 3}
   m_Name: HandTracking Android
   m_EditorClassIdentifier: Unity.XR.Hands::UnityEngine.XR.Hands.OpenXR.HandTracking
-  m_enabled: 0
+  m_enabled: 1
   nameUi: Hand Tracking Subsystem
   version: 0.0.1
   featureIdInternal: com.unity.openxr.feature.input.handtracking
@@ -1031,37 +1031,37 @@ MonoBehaviour:
   m_Name: Standalone
   m_EditorClassIdentifier: Unity.XR.OpenXR::UnityEngine.XR.OpenXR.OpenXRSettings
   features:
-  - {fileID: 8219246169042505645}
-  - {fileID: -8093170158600528400}
-  - {fileID: -4737587283990324650}
-  - {fileID: -4831833391182166811}
-  - {fileID: 1770992140173393484}
-  - {fileID: 2280809110970445033}
-  - {fileID: 5529636871645442999}
   - {fileID: 6863389623103941468}
+  - {fileID: -4737587283990324650}
+  - {fileID: 7623723351990911252}
+  - {fileID: -8645264145957387060}
+  - {fileID: 7224900146982866832}
+  - {fileID: 939586544733813679}
   - {fileID: 267741071892197640}
+  - {fileID: 1423551576164574468}
+  - {fileID: 1770992140173393484}
   - {fileID: 6033793117383820527}
   - {fileID: -3706152714111418515}
-  - {fileID: -1726776525374345852}
-  - {fileID: -9042080374167890206}
-  - {fileID: -4027710934829580015}
-  - {fileID: 4416474595207773837}
-  - {fileID: 1423551576164574468}
-  - {fileID: 7623723351990911252}
-  - {fileID: -3178403231754265178}
-  - {fileID: 6595301466835554713}
+  - {fileID: 2280809110970445033}
+  - {fileID: 5529636871645442999}
   - {fileID: -7921311514474999790}
-  - {fileID: -6080147571625559631}
   - {fileID: 1977511010889473139}
-  - {fileID: 8176927981754186941}
-  - {fileID: 939586544733813679}
-  - {fileID: 5429114609006531960}
-  - {fileID: 6968524144036998995}
-  - {fileID: 8759624540479894464}
-  - {fileID: 7224900146982866832}
-  - {fileID: -8645264145957387060}
-  - {fileID: 8549740465747216294}
+  - {fileID: 6595301466835554713}
+  - {fileID: -4027710934829580015}
   - {fileID: 2432823865542960315}
+  - {fileID: 8549740465747216294}
+  - {fileID: 8759624540479894464}
+  - {fileID: 6968524144036998995}
+  - {fileID: -9042080374167890206}
+  - {fileID: -6080147571625559631}
+  - {fileID: -8093170158600528400}
+  - {fileID: -3178403231754265178}
+  - {fileID: 5429114609006531960}
+  - {fileID: -1726776525374345852}
+  - {fileID: 8219246169042505645}
+  - {fileID: 4416474595207773837}
+  - {fileID: -4831833391182166811}
+  - {fileID: 8176927981754186941}
   customLoaderName: 
   m_renderMode: 1
   m_latencyOptimization: 0
