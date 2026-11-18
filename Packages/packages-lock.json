@@ -18,7 +18,7 @@
       "hash": "81542a7e86292b5c4c21b1782c5af23b567f45ce"
     },
     "com.meta.xr.sdk.core": {
-      "version": "207.0.1",
+      "version": "209.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
@@ -33,16 +33,16 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.haptics": {
-      "version": "207.0.1",
+      "version": "209.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "207.0.1"
+        "com.meta.xr.sdk.core": "209.0.0"
       },
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.interaction": {
-      "version": "207.0.1",
+      "version": "209.0.0",
       "depth": 1,
       "source": "registry",
       "dependencies": {
@@ -52,12 +52,12 @@
       "url": "https://packages.unity.com"
     },
     "com.meta.xr.sdk.interaction.ovr": {
-      "version": "207.0.1",
+      "version": "209.0.0",
       "depth": 0,
       "source": "registry",
       "dependencies": {
-        "com.meta.xr.sdk.core": "207.0.1",
-        "com.meta.xr.sdk.interaction": "207.0.1"
+        "com.meta.xr.sdk.core": "209.0.0",
+        "com.meta.xr.sdk.interaction": "209.0.0"
       },
       "url": "https://packages.unity.com"
     },
